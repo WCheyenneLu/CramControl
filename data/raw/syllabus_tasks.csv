@@ -1,0 +1,30 @@
+task_id,course,task_title,task_type,due_date,weight,source_file
+0,CS 32: Introduction to Computer Science II,Midterm 1,midterm_easy,Apr 24 (Th,7.0,cs.json
+1,CS 32: Introduction to Computer Science II,Final exam,final_easy,Jun 10 (Su,30.0,cs.json
+2,CS 32: Introduction to Computer Science II,Midterm 2,midterm_easy,May 15 (Th,13.0,cs.json
+3,CS 32: Introduction to Computer Science II,Homework 5,weekly_long,"Thursday, ",0.0,cs.json
+4,CS 32: Introduction to Computer Science II,Project 4,project,"Thursday, ",10.0,cs.json
+5,CS 32: Introduction to Computer Science II,Homework 1,weekly_long,"Tuesday, A",0.0,cs.json
+6,CS 32: Introduction to Computer Science II,Project 2,project,"Tuesday, A",10.0,cs.json
+7,CS 32: Introduction to Computer Science II,Homework 4,weekly_long,"Tuesday, M",0.0,cs.json
+8,CS 32: Introduction to Computer Science II,Homework 2,weekly_long,"Wednesday,",0.0,cs.json
+9,CS 32: Introduction to Computer Science II,Project 1,project,"Wednesday,",1.0,cs.json
+10,CS 32: Introduction to Computer Science II,Project 3,project,"Wednesday,",10.0,cs.json
+11,CS 32: Introduction to Computer Science II,Homework 3,weekly_long,"Wednesday,",0.0,cs.json
+12,Optimization (Math 164),Question hour,other,Fri Jun 6,0.0,math.json
+13,Optimization (Math 164),Final exam,final_easy,"Thu, Jun 1",45.0,math.json
+14,Optimization (Math 164),Midterm,midterm_easy,"Wed, May 7",35.0,math.json
+15,Optimization (Math 164),Homework,weekly_long,following ,20.0,math.json
+16,PHIL 10: Philosophy of Death and Grief,"Reading: Epicurus, Lucretius, Nagel, Dickinson Poem",reading,2025-09-30,0.0,phil.json
+17,PHIL 10: Philosophy of Death and Grief,"Reading: Taylor, Tolstoy, Shelley Poem, Ryan Poem",reading,2025-10-07,0.0,phil.json
+18,PHIL 10: Philosophy of Death and Grief,"Reading: Bernard Williams, 'The Makropulos Case'",reading,2025-10-14,0.0,phil.json
+19,PHIL 10: Philosophy of Death and Grief,"Reading: Martha Nussbaum, 'Mortal Immortals'",reading,2025-10-21,0.0,phil.json
+20,PHIL 10: Philosophy of Death and Grief,Reading: Jane Kenyon Poem,reading,2025-10-23,0.0,phil.json
+21,PHIL 10: Philosophy of Death and Grief,First exam,other,2025-10-30,0.0,phil.json
+22,PHIL 10: Philosophy of Death and Grief,Reading: Wilkinson and Pies,reading,2025-11-04,0.0,phil.json
+23,PHIL 10: Philosophy of Death and Grief,"Reading: Martha Nussbaum, 'Emotions as Judgments of Value and Significance'",reading,2025-11-11,0.0,phil.json
+24,PHIL 10: Philosophy of Death and Grief,Reading: Rupert Read and Marge Piercy Poem,reading,2025-11-18,0.0,phil.json
+25,PHIL 10: Philosophy of Death and Grief,Second Exam,other,2025-11-25,0.0,phil.json
+26,PHIL 10: Philosophy of Death and Grief,"Reading: Freud, 'Mourning and Melancholia'",reading,2025-12-02,0.0,phil.json
+27,PHIL 10: Philosophy of Death and Grief,Final exam,final_easy,2025-12-09,0.0,phil.json
+28,PHIL 10: Philosophy of Death and Grief,Participation and attendance,other,Throughout,0.0,phil.json

@@ -1,0 +1,12 @@
+{
+  "course_name": "string",
+  "course_code": "string",
+  "schedule_items": [
+    {
+      "assignment_type": "reading|essay_or_presentation|weekly_short_task|weekly_long_task|larger_project|capstone_project|midterm|final|other",
+      "assignment_name": "string",
+      "due_date": "string",
+      "weighting": "number_or_null"
+    }
+  ]
+}
