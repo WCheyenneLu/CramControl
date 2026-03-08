@@ -27,7 +27,7 @@ with col2:
     light_week_max = st.number_input("Light week max hours", min_value=0.0, max_value=80.0, value=12.0, step=1.0)
     heavy_week_max = st.number_input("Heavy week max hours", min_value=0.0, max_value=100.0, value=25.0, step=1.0)
 
-api_key = st.text_input("Gemini API Key", value=os.getenv("GEMINI_API_KEY", ""), type="password")
+api_key = st.text_input("Gemini API Key", type="password")
 uploaded_files = st.file_uploader("Upload syllabus PDF(s)", type=["pdf"], accept_multiple_files=True)
 
 if st.button("Generate Master Calendar", type="primary"):
