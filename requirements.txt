@@ -1,0 +1,17 @@
+# Web Framework & UI
+streamlit>=1.30.0
+
+# PDF Parsing
+pdfplumber>=0.10.0
+
+# AI & API
+google-genai>=0.1.0
+python-dotenv>=1.0.0
+
+# Data Manipulation
+pandas>=2.0.0
+
+# Machine Learning & Model Saving
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+joblib>=1.3.0

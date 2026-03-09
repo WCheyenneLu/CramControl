@@ -1,31 +1,21 @@
-# =====================
-# Python
-# =====================
+# --- Secrets & Environment ---
+.env
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
+*$py.class
 
-# Virtual environments
+# --- Virtual Environments ---
 venv/
-.env/
+env/
 .venv/
+opt/
+# Since you're using Miniconda/Anaconda, ignore local conda installs
+conda-env/
 
-# =====================
-# Streamlit
-# =====================
-.streamlit/secrets.toml
-
-# =====================
-# OS / Editor junk
-# =====================
-.DS_Store
-Thumbs.db
+# --- IDE Settings ---
 .vscode/
 .idea/
+.DS_Store
 
-# =====================
-# Logs & temp files
-# =====================
-*.log
-*.tmp
+# --- Streamlit ---
+.streamlit/config.toml
