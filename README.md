@@ -84,4 +84,4 @@ If the app successfully parses the PDF, but late-quarter events (like final exam
 
 ## Acknowledgements
 
-Thank you to my project teammates Kiara, Emilio, Noah, and Sanskriti for their contributions. This project represents the final version of an internal project developed through the Data Science Union at UCLA.
+Thank you to my project team members Kiara, Emilio, Noah, and Sanskriti for their contributions. This project represents the final version of an internal project developed through the Data Science Union at UCLA.
