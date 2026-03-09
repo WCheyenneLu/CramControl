@@ -81,3 +81,7 @@ If the app successfully parses the PDF, but late-quarter events (like final exam
 * **Fix:** Open the sidebar in the Streamlit app and change the **Quarter start date** to the correct first Monday of the term (e.g., set it to **Jan 5th** for the Winter quarter).
 
 ---
+
+## Acknowledgements
+
+Thank you to my project teammates Kiara, Emilio, Noah, and Sanskriti for their contributions. This project represents the final version of an internal project developed through the Data Science Union at UCLA.
